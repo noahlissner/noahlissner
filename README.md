@@ -22,3 +22,6 @@
 
 > ### What i'm currently working on
 🛑 undefined
+
+> ### Current job
+👨‍🎓 Front End Developer student
