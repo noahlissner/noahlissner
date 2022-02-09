@@ -8,7 +8,7 @@
 
 ***
 
-> ### What i use
+> ### 🔨 What i use
 ![](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS-1572b6?style=flat-square&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/-Tailwind_CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -20,8 +20,8 @@
 ![](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-> ### What i'm currently working on
-🛑 undefined
+> ### 💻 What i'm currently working on
+undefined
 
-> ### Current job
-👨‍🎓 Front End Developer student
+> ### 👷‍♂️ Where i'm working
+Front End Developer student
