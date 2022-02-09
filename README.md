@@ -22,6 +22,3 @@
 
 > ### 💻 What i'm currently working on
 undefined
-
-> ### 👷‍♂️ Where i'm working
-Front End Developer student
