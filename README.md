@@ -1,7 +1,8 @@
 ### Hi there i'm Noah👋
+An aspiring Front End developer with a great passion for beautiful design and new technologies.
 
 <p>
-  <br> 📱 My Socials<br><br/>
+  <br>📱 My Socials<br><br/>
   <a href="https://discord.com/users/362662241939619842"><img src="https://img.shields.io/badge/-NoahL-5865f2?style=for-the-badge&logo=discord&logoColor=white" /></a>
    <a href="https://www.linkedin.com/in/noah-lissner-380b21168/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -19,6 +20,7 @@
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
+<br>
+<br>
 > ### 💻 What i'm currently working on
-undefined
+<p><a href="https://github.com/noahlissner/survey-app">Survey/Quiz Maker</a>
