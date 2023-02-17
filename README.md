@@ -1,5 +1,5 @@
 ### Hi there i'm Noah👋
-An aspiring Front End developer with a great passion for beautiful design and new technologies.
+Full-Stack Developer@Schoolsoft.
 
 <p>
   <br>📱 My Socials<br><br/>
@@ -23,4 +23,3 @@ An aspiring Front End developer with a great passion for beautiful design and ne
 <br>
 <br>
 > ### 💻 What i'm currently working on
-<p><a href="https://github.com/noahlissner/survey-app">Survey/Quiz Maker</a>
