@@ -9,7 +9,7 @@ Full-Stack Developer@Schoolsoft.
 
 ***
 
-> ### 🔨 What i use
+> ### 🔨 Some of the things i use
 ![](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS-1572b6?style=flat-square&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/-Tailwind_CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
